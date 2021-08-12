@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(210, 205, 224);
+  color: rgb(255, 255, 255);
+}
+
+.for-h1 {
+  background-color: rgb(238, 59, 59);
+  padding: 3px;
+  border-radius: 40px;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+#nav-bar {
+  background-color: rgb(105, 20, 20);
+  font-style: oblique;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  border-style: dotted;
+  text-align: center;
+  width: 105px;
+  float: left;
+  margin-right: 40px;
+  margin-left: 1px;
+}
